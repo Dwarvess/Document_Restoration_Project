@@ -1,0 +1,17 @@
+# Python sanal ortamları
+__pycache__/
+*.py[cod]
+venv/
+env/
+
+# Veritabanı ve Proje Klasörleri
+chroma_db/
+data/
+
+# Model Çıktıları ve Test Sonuçları
+outputs/
+final_restored.txt
+ocr_result.txt
+
+# Çevre Değişkenleri
+.env
